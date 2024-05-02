@@ -1,0 +1,2 @@
+[Fri Aug 18 14:09:30.243553 2023] [autoindex:error] [pid 7112:tid 1964] [client 127.0.0.1:58810] AH01276: Cannot serve directory D:/application/websilatng.test/: No matching DirectoryIndex (index.php) found, and server-generated directory index forbidden by Options directive
+[Fri Aug 18 14:09:33.670832 2023] [autoindex:error] [pid 7112:tid 1964] [client 127.0.0.1:58811] AH01276: Cannot serve directory D:/application/websilatng.test/: No matching DirectoryIndex (index.php) found, and server-generated directory index forbidden by Options directive
